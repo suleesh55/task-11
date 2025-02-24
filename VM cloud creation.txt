@@ -1,0 +1,4 @@
+step-1 sign in to the AWS 
+step-2 search EC2 -> EC2 dashboard -> launch an instance
+step-3 name- my vm1 -> number of instance (1) -> Os for vm (windows)
+step-4 created keypair name (mywindows) -> launch instance
